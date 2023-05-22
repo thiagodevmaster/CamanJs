@@ -1,0 +1,13 @@
+#canvas {
+    margin: auto;
+    background: #ececee;
+    width: 100%;
+}
+
+.btn-disable{
+    color: #fff !important;
+}
+
+button{
+    width: 100%;
+}
